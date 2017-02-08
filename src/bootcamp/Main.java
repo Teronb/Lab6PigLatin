@@ -1,6 +1,6 @@
 package bootcamp;
 
-import java.util.Scanner;
+        import java.util.Scanner;
 
 /* Teron Briggs
  * 2/6/2017
